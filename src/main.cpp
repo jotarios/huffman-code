@@ -2,8 +2,8 @@
 #include "File.cpp"
 #include "Huffman.cpp"
 
-#define FILENAME "../data/sherlock.txt"
-#define DEBUG_FILENAME "../data/test.txt"
+#define FILENAME "data/sherlock.txt"
+#define DEBUG_FILENAME "data/test.txt"
 
 int main() {
   auto file = new File(FILENAME);

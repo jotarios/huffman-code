@@ -6,8 +6,8 @@
 #include "utils/Node.cpp"
 #include "fstream"
 
-#define OUTPUT_FILE "../data/output/output.txt"
-#define ENCODING_FILE "../data/output/encoding.txt"
+#define OUTPUT_FILE "data/output/output.txt"
+#define ENCODING_FILE "data/output/encoding.txt"
 
 class Huffman {
  private:
